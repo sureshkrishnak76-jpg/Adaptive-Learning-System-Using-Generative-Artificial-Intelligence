@@ -1,7 +1,7 @@
 from google import genai
 
 # Initialize Gemini client
-client = genai.Client(api_key="AIzaSyDXyLE83lHTx4tTiLhqLJYevVLDN0QYzbc")
+client = genai.Client(api_key="AIzaSyCDlrBfOc2KvnA8hzSXYDRhq_6b2Rpa22c")
 
 
 def generate_quiz(topic, difficulty):
